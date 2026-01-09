@@ -1,6 +1,6 @@
 #!/bin/bash
-# this is by loop
-echo "by loop"
+# this is while loop
+echo "while loop"
 # This Command is printing Hi Buddy every 2 second.
 while true
 do
