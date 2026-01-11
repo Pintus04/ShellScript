@@ -1,0 +1,12 @@
+Filesystem     Type      Size  Used Avail Use% Mounted on
+tmpfs          tmpfs     1.7G  2.9M  1.7G   1% /run
+/dev/nvme0n1p5 ext4      1.1T  106G  847G  12% /
+tmpfs          tmpfs     8.3G  202M  8.1G   3% /dev/shm
+tmpfs          tmpfs     5.3M  8.2k  5.3M   1% /run/lock
+efivarfs       efivarfs  449k  338k  106k  77% /sys/firmware/efi/efivars
+/dev/nvme0n1p4 vfat      1.2G   43M  1.1G   4% /boot/efi
+tmpfs          tmpfs     1.7G  148k  1.7G   1% /run/user/1000
+/dev/sda1      exfat     124G   25G   99G  20% /media/pintusharma/4AD9-C754
+               total        used        free      shared  buff/cache   available
+Mem:           15677        5453        6121         977        5415       10224
+Swap:          32767           0       32767
